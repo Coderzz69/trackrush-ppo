@@ -1,0 +1,32 @@
+# Unity
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Bb]uild/
+/[Bb]uilds/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+*.csproj
+*.sln
+*.slnx
+*.suo
+*.user
+*.pidb
+*.booproj
+*.unityproj
+*.tmp
+.vscode/
+.idea/
+.DS_Store
+crashlytics-buildid.txt
+sysinfo.txt
+*.apk
+*.aab
+*.app
+mono_crash.*
+
+# ML-Agents profiling output (rewritten every run)
+/Assets/ML-Agents/
+/Assets/ML-Agents.meta
