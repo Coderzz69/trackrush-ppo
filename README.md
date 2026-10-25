@@ -4,10 +4,7 @@ A Trackmania-style racing game in Unity, and PPO written from scratch in PyTorch
 cars to drive. With 100 cars learning at once, the policy goes from random wandering to finishing
 98% of its runs in about 6 minutes of training.
 
-<p align="center">
-  <a href="docs/demo.mp4"><img src="docs/demo.gif" width="800" alt="The trained policy crossing the line at 0:30.080 after 16,000 episodes"></a>
-  <br><a href="docs/demo.mp4"><b>▶ Watch the 54-second demo (with sound)</b>: from 4% of cars finishing to a 0:30.080 lap</a>
-</p>
+https://github.com/user-attachments/assets/f4a8af85-b31b-4688-a32c-fb5ce436f045
 
 ![Reward curve](Training/reports/v1/reward_curve.png)
 
